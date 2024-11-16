@@ -1,6 +1,6 @@
 # Kitchen-Micro-Doppler-HAR-with-OD-GCResNet
 
-This repository includes the source code of the paper titled "Kitchen Micro-Doppler Human Activity Recognition using OD-GCResNet" submitted to IEEE ICC 2025 (2025 IEEE International Conference on Communications).
+This repository includes our BumblebeeKitchen dataset and codes of the paper titled "Kitchen Micro-Doppler Human Activity Recognition using OD-GCResNet" submitted to IEEE ICC 2025 (2025 IEEE International Conference on Communications).
 ![Overview](https://raw.githubusercontent.com/Canberra1111/Kitchen-Micro-Doppler-HAR-with-OD-GCResNet/main/Radar_System_Architecture.png)
 
 
@@ -16,7 +16,7 @@ The model combines advanced convolution techniques to accurately detect subtle m
 
 ## Dataset
 
-1. **Our Kitchen Dataset**:
+1. **Our BumblebeeKitchen Dataset**:
    - The dataset in this study is available in the `dataset.zip` file in this repository.
    
 2. **Public Dataset**:
