@@ -1,7 +1,8 @@
 # Kitchen-Micro-Doppler-HAR-with-OD-GCResNet
 
 This repository includes the source code of the paper titled "Kitchen Micro-Doppler Human Activity Recognition using OD-GCResNet" submitted to IEEE ICC 2025 (2025 IEEE International Conference on Communications).
-！[Overview](https://github.com/Canberra1111/Kitchen-Micro-Doppler-HAR-with-OD-GCResNet/blob/main/Radar_System_Architecture.png)
+![Overview](https://raw.githubusercontent.com/Canberra1111/Kitchen-Micro-Doppler-HAR-with-OD-GCResNet/main/Radar_System_Architecture.png)
+
 
 ## Project Overview
 
