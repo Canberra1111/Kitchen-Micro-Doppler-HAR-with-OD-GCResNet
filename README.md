@@ -43,8 +43,10 @@ Dependencies can be installed using requirements.txt.
 
 3. Install the required dependencies
 
-  ```bash
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+
+
 
 ## Usage
 
