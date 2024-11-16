@@ -1,6 +1,3 @@
-torch>=2.0
-scikit-learn
-numpy
-joblib
-pandas
-matplotlib
+version https://git-lfs.github.com/spec/v1
+oid sha256:323ab140f46c6a3c9694ee63476d9978b5290f2ec297528f0b31ca76a6d3ee3a
+size 61
