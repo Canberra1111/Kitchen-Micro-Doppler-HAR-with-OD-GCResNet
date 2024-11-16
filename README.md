@@ -8,7 +8,7 @@ This repository includes our BumblebeeKitchen dataset and codes of the paper tit
 ## Project Overview
 
 This project addresses the growing need for non-invasive monitoring solutions for elderly individuals, particularly focusing on kitchen activities, which pose unique safety challenges. We introduce **OD-GCResNet**, a novel deep learning model for kitchen activity recognition based on micro-Doppler signatures. 
-The model combines advanced convolution techniques to accurately detect subtle micro-Doppler variations in real-world environments. We achieve a classification accuracy of **99.61%** on our dataset, outperforming baseline models. We also validate the model on the UORED-VAFCLS dataset and reached a classification accuracy of **99.29%**.
+The model combines advanced convolution techniques to accurately detect subtle micro-Doppler variations in real-world environments. We achieve a classification accuracy of **99.61%** on our dataset, outperforming baseline models. We also validate the model on the UORED-VAFCLS dataset and reach a classification accuracy of **99.29%**.
 ![Model Structure](https://raw.githubusercontent.com/Canberra1111/Kitchen-Micro-Doppler-HAR-with-OD-GCResNet/main/Model_Structure.png)
 
 
