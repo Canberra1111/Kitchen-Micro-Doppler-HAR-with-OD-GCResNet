@@ -73,6 +73,3 @@ If you used our work or found it helpful, please use the following citation:
    of 99.61%, outperforming baseline models. This work represents a significant step forward in non-contact, privacy-preserving safety monitoring solutions 
    for elderly care.",
    }
-
-
-
