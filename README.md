@@ -1,6 +1,7 @@
 # Kitchen-Micro-Doppler-HAR-with-OD-GCResNet
 
-This repository includes our BumblebeeKitchen dataset and codes of the paper titled "Kitchen Micro-Doppler Human Activity Recognition using OD-GCResNet" submitted to IEEE ICC 2025 (2025 IEEE International Conference on Communications).
+This repository includes our BumblebeeKitchen dataset and codes of the paper titled "Kitchen Micro-Doppler Human Activity Recognition using OD-GCResNet" submitted to IEEE ICC 2025 
+(2025 IEEE International Conference on Communications).
 ![Overview](https://raw.githubusercontent.com/Canberra1111/Kitchen-Micro-Doppler-HAR-with-OD-GCResNet/main/Radar_System_Architecture.png)
 
 
@@ -46,22 +47,36 @@ Dependencies can be installed using requirements.txt.
    ```bash
    pip install -r requirements.txt
 
-
-
 ## Usage
 
-### 1. Main Experiment 
+1. Main Experiment 
 
    ```bash
    python main.py
 
-### 2. Model Validation on UORED-VAFCLS Dataset
+2. Model Validation on UORED-VAFCLS Dataset
 
-  ```bash
-  python validation.py
-
-
+   ```bash
+   python validation.py
 
 version https://git-lfs.github.com/spec/v1
 oid sha256:4eb13b6ff7ea44858c0e59172d9bdcbe33802ff6bfee1ac0ad3e268fe95a3d67
 size 44
+
+## Citations
+If you used our work or found it helpful, please use the following citation:
+   ```bash
+   @inproceedings{pei-etal-2024-odgcresnet,
+     title = "OD-GCResNet: A Deep Learning Model for Kitchen Activity Recognition Using Micro-Doppler Signatures",
+     author = "Pei, Yinan and Hu, Shaohua and Cao, Junjia and Tan, Mingshu and Li, Zhuyi and Luo, Fei and Li, Anna",
+     booktitle = "Proceedings of the 2025 IEEE International Conference on Communications (Under Review)",
+     year = "2024",
+     address = "Beijing, China",
+     url = "https://github.com/Canberra1111/Kitchen-Micro-Doppler-HAR-with-OD-GCResNet",
+     abstract = "As the global aging population grows, the need for non-invasive, reliable monitoring solutions for elderly individuals living alone becomes    urgent. Kitchen activities, a high-risk area in homes, pose unique safety challenges. However, existing human activity recognition methods still struggle    with accuracy, and few studies specifically address these challenges in kitchen environments. This paper introduces OD-GCResNet, a novel hybrid deep         learning model for kitchen activity recognition based on micro-Doppler signatures. The proposed model combines Omni-Dimensional Dynamic Convolution with     Recursive Gated Convolution to enhance global feature interactions and adaptive attention, allowing for accurate detection of subtle micro-Doppler           variations in complex, real-world environments. We validate OD-GCResNet on our collected kitchen activity dataset and achieve a classification accuracy 
+   of 99.61%, outperforming baseline models. This work represents a significant step forward in non-contact, privacy-preserving safety monitoring solutions 
+   for elderly care.",
+   }
+
+
+
