@@ -52,8 +52,8 @@ Dependencies can be installed using requirements.txt.
 
 ### 1. Main Experiment 
 
-  ```bash
-  python main.py
+   ```bash
+   python main.py
 
 ### 2. Model Validation on UORED-VAFCLS Dataset
 
