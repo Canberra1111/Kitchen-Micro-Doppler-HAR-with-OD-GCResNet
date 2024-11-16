@@ -59,10 +59,6 @@ Dependencies can be installed using requirements.txt.
    ```bash
    python validation.py
 
-version https://git-lfs.github.com/spec/v1
-oid sha256:4eb13b6ff7ea44858c0e59172d9bdcbe33802ff6bfee1ac0ad3e268fe95a3d67
-size 44
-
 ## Citations
 If you used our work or found it helpful, please use the following citation:
    ```bash
