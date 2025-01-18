@@ -21,7 +21,7 @@ The model combines advanced convolution techniques to accurately detect subtle m
    - The dataset in this study is available in the `dataset.zip` file in this repository.
    
 2. **Public Dataset**:
-   - Access the public dataset(UORED-VAFCLS dataset) used for validation from the following link:
+   - Access the public dataset (UORED-VAFCLS dataset) used for validation from the following link:
      - [Public Dataset on Mendeley](https://data.mendeley.com/datasets/y2px5tg92h/5)
 
 ## Dependencies
