@@ -66,7 +66,7 @@ If you used our work or found it helpful, please use the following citation:
      title = "OD-GCResNet: A Deep Learning Model for Kitchen Activity Recognition Using Micro-Doppler Signatures",
      author = "Pei, Yinan and Hu, Shaohua and Cao, Junjia and Tan, Mingshu and Li, Zhuyi and Luo, Fei and Li, Anna",
      booktitle = "Proceedings of the 2025 IEEE International Conference on Communications",
-     year = "2024",
+     year = "2025",
      address = "Beijing, China",
      url = "https://github.com/Canberra1111/Kitchen-Micro-Doppler-HAR-with-OD-GCResNet",
    }
