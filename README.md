@@ -1,6 +1,6 @@
 # Kitchen-Micro-Doppler-HAR-with-OD-GCResNet
 
-This repository includes our BumblebeeKitchen dataset and codes of the paper titled "A Deep Learning Model for Kitchen Activity Recognition using Micro-Doppler Signatures" **published by IEEE ICC 2025 
+This repository includes our BumblebeeKitchen dataset and codes of the paper titled "A Deep Learning Model for Kitchen Activity Recognition using Micro-Doppler Signatures"  **published by IEEE ICC 2025 
 (2025 IEEE International Conference on Communications).**
 ![Overview](https://raw.githubusercontent.com/Canberra1111/Kitchen-Micro-Doppler-HAR-with-OD-GCResNet/main/Radar_System_Architecture.png)
 
