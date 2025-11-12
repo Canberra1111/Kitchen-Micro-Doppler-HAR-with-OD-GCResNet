@@ -1,6 +1,6 @@
 # Kitchen-Micro-Doppler-HAR-with-OD-GCResNet
 
-This repository includes our BumblebeeKitchen dataset and codes of the paper titled "Kitchen Micro-Doppler Human Activity Recognition using OD-GCResNet" **accepted by IEEE ICC 2025 
+This repository includes our BumblebeeKitchen dataset and codes of the paper titled "Kitchen Micro-Doppler Human Activity Recognition using OD-GCResNet" **published by IEEE ICC 2025 
 (2025 IEEE International Conference on Communications).**
 ![Overview](https://raw.githubusercontent.com/Canberra1111/Kitchen-Micro-Doppler-HAR-with-OD-GCResNet/main/Radar_System_Architecture.png)
 
@@ -40,7 +40,7 @@ Dependencies can be installed using requirements.txt.
 2. Clone the repository using Git LFS
 
    ```bash
-   git lfs clone https://github.com/Canberra1111/Kitchen-Micro-Doppler-HAR-with-OD-GC
+   git lfs clone https://github.com/Canberra1111/Kitchen-Micro-Doppler-HAR-with-OD-GCResNet
 
 3. Install the required dependencies
 
